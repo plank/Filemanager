@@ -19,6 +19,7 @@ $.SetImpromptuDefaults({
 var setDimensions = function(){
 	var newH = $(window).height() - 50;	
 	$('#splitter, #filetree, #fileinfo, .vsplitbar').height(newH);
+	$('#fileinfo').css('width','85%'); // keeps things centered properly
 }
 
 // Sets the folder status, upload, and new folder functions 
