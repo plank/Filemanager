@@ -1,0 +1,8 @@
+Please checkout http://labs.corefive.com/Projects/FileManager/ for the original documentation. This is simply our branch
+used to track and handle required modifications.
+
+FileManager is a web-based file browser that can easily be integrated with popular inline HTML editors. Out of the box, 
+FileManager works with FCKEditor and its successor, CKEditor. FileManager allows you to upload, download, rename, and 
+delete files and folders on the web server’s hard drive, providing crucial functionality for content management systems, 
+blogs, and other web-publishing software. FileManager includes server-side connectors for Lasso and Python, and can be 
+extended to support additional languages via a simple JavaScript API.
